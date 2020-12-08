@@ -292,22 +292,6 @@ textarea,
 	box-shadow: 0 0 20px rgba(0, 0, 0, calc(var(--background-shading) * .6))
 }
 
-.wordmark-2iDDfm:after {
-  content: "FOURTH ECHELON - SAM FISHER";
-  font-size: 14px;
-  font-weight: 1000;
-  position: absolute;
-  width: 4000px;
-  top: 5px;
-  color: #17fc03;
-  padding-left: -0px;
-  font-family: "Ubuntu";
-}
-.wordmark-2iDDfm > svg {
-  width: 0px;
-}
-
-
 .typeWindows-1za-n7>.winButton-iRh8-Z {
 	top: -2px;
 	opacity: .7;
