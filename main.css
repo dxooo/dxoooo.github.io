@@ -292,34 +292,19 @@ textarea,
 	box-shadow: 0 0 20px rgba(0, 0, 0, calc(var(--background-shading) * .6))
 }
 
-.typeWindows-1za-n7>.wordmark-2iDDfm {
-	position: static;
-	margin-right: auto;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	opacity: 1;
-	pointer-events: none;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	user-select: none;
-	order: 1
+.wordmark-2iDDfm:after {
+  content: "FOURTH ECHELON - SAM FISHER";
+  font-size: 14px;
+  font-weight: 1000;
+  position: absolute;
+  width: 4000px;
+  top: 5px;
+  color: #17fc03;
+  padding-left: -0px;
+  font-family: "Ubuntu";
 }
-
-.typeWindows-1za-n7>.wordmark-2iDDfm:before,
-.typeWindows-1za-n7>.wordmark-2iDDfm:after {
-	margin-left: 3px;
-	font-weight: 600;
-	white-space: nowrap;
-	order: 1
-}
-
-.typeWindows-1za-n7>.wordmark-2iDDfm:before {
-	content: "FOURTH ECHELON - SAM FISHER";
-	color: #17fc03;
-	font-size: 14px;
-	text-shadow: 0 0 3px #000
+.wordmark-2iDDfm > svg {
+  width: 0px;
 }
 
 
