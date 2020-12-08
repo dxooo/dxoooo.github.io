@@ -18,8 +18,8 @@
 	--dnd-color: #982929;
 	--offline-color: #808080;
 	--streaming-color: #593695;
-	--main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
-	--code-font: Consolas, Liberation Mono, Menlo, Courier, monospace;
+	--main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif, Ubuntu;
+	--code-font: Consolas, Liberation Mono, Menlo, Courier, monospace, Ubuntu;
 	--channels-width: 220px;
 	--members-width: 240px;
 	--avatar-roundness: 50%;
@@ -169,7 +169,8 @@
 }
 
 ::-moz-placeholder {
-	font-family: var(--main-font)
+	
+	-family: var(--main-font)
 }
 
 :-ms-input-placeholder {
