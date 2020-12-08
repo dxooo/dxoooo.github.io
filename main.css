@@ -1460,49 +1460,6 @@ ul.tree-3tCaw8 {
 	opacity: .1
 }
 
-.container-3baos1 {
-	position: relative;
-	margin-bottom: 10px
-}
-
-.container-3baos1:before,
-.container-3baos1:after {
-	bottom: -8px;
-	position: absolute;
-	color: rgba(255, 255, 255, 0.3);
-	font-size: 11px;
-	font-weight: 700;
-	transition: all .5s ease-in-out
-}
-
-.container-3baos1:before {
-	content: "SAM FISHER";
-	color: #17fc03;
-	right: 50%;
-	text-align: right;
-	transform: translateX(50%)
-}
-
-.container-3baos1:after {
-	content: "FOURTH ECHELON";
-	color: #17fc03;
-	left: 50%;
-	text-align: left;
-	opacity: 0;
-	transform: translateX(50%) rotateX(90deg)
-}
-
-.container-3baos1:hover:before {
-	margin-right: 1px;
-	transform: none
-}
-
-.container-3baos1:hover:after {
-	margin-left: 1px;
-	opacity: 1;
-	transform: none
-}
-
 .container-3baos1 .avatar-SmRMf2 {
 	width: 32px !important;
 	height: 32px !important;
