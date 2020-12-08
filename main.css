@@ -1475,14 +1475,16 @@ ul.tree-3tCaw8 {
 }
 
 .container-3baos1:before {
-	content: "ClearVision";
+	content: "SAM FISHER";
+	color: #17fc03;
 	right: 50%;
 	text-align: right;
 	transform: translateX(50%)
 }
 
 .container-3baos1:after {
-	content: "v6.0.1";
+	content: "FOURTH ECHELON";
+	color: #17fc03;
 	left: 50%;
 	text-align: left;
 	opacity: 0;
